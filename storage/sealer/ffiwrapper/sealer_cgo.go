@@ -11,11 +11,8 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"errors"
-<<<<<<< HEAD
 	"fmt"
 	"github.com/google/uuid"
-=======
->>>>>>> v1.25.1
 	"io"
 	"math/bits"
 	"net/http"
